@@ -12,4 +12,3 @@ for line in fh:
     line = line.rstrip()
     words = line.split()
     print words
-# test
